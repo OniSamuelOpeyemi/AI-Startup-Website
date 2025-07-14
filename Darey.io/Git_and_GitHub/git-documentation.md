@@ -93,7 +93,9 @@ By following along with official documentation, learners can trust the accuracy 
 
 ![Create push tom branch](./tom-navigate.png)
 
+![History](./hist.png)
 
+![index](./index.png)
 
 🌐 [Live GitHub Repository with index.html](https://github.com/OniSamuelOpeyemi/AI-Startup-Website/blob/master/Darey.io/Git_and_GitHub/index.html)
 
