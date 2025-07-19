@@ -85,7 +85,19 @@ By following along with official documentation, learners can trust the accuracy 
 
 ![GitHub](./GitHub.png)
 
-🌐 [Live GitHub Repository with index.html](https://github.com/OniSamuelOpeyemi/DevOps-Made-Easy/blob/darey/Git_and_GitHub/index.html)
+![Commit](./commit.png)
+
+![Git push](./push.png)
+
+![Create Tom branch](./tom-branch.png)
+
+![Create push tom branch](./tom-navigate.png)
+
+![History](./hist.png)
+
+![index](./index.png)
+
+🌐 [Live GitHub Repository with index.html](https://github.com/OniSamuelOpeyemi/AI-Startup-Website/blob/master/Darey.io/Git_and_GitHub/index.html)
 
 ---
 
