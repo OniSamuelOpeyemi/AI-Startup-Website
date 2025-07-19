@@ -97,6 +97,13 @@ By following along with official documentation, learners can trust the accuracy 
 
 ![index](./index.png)
 
+![Swtich branch](./Switch.png)
+
+![Create a Pull request](./PR.png)
+
+![merged pull request](./merge.png)
+
+
 🌐 [Live GitHub Repository with index.html](https://github.com/OniSamuelOpeyemi/AI-Startup-Website/blob/master/Darey.io/Git_and_GitHub/index.html)
 
 ---
