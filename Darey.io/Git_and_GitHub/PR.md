@@ -12,5 +12,5 @@
 
 ### Merged Pull Request
 
-[Merge](./merge.png)
+![Merge](./merge.png)
 
